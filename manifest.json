@@ -1,0 +1,9 @@
+{  
+    "name": "Sport App",   
+    "short_name": "Sport", 
+    "lang": "ru-Ru",     
+    "start_url": "/index.html", 
+    "display": "standalone",  
+    "background_color": "white",   
+    "theme_color": "#900C3F" 
+    }
